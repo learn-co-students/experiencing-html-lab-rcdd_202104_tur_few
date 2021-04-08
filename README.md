@@ -17,7 +17,8 @@ the joy of editing a file and seeing the change "out there."
 2. Define the difference between _source text_ and _rendered text_
 3. Use HTML tags to change the display of _content_ by providing _markup_
 
-**NOTE:** We don't expect you to know _markup_, _content_, _source text_, or
+**NOTE:** We don't
+expect you to know _markup_, _content_, _source text_, or
 _rendered text_ yet. We'll be defining them in this lab.
 
 ## Distinguish _markup_ from _content_
